@@ -5,10 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=EPICdronzer&label=👁️+Profile+Views&color=0d1117&labelColor=00FFFF&style=for-the-badge" alt="Profile Views" />
   </a>
   &nbsp;
-  <a href="https://github.com/EPICdronzer?tab=followers">
-    <img src="https://img.shields.io/github/followers/EPICdronzer?label=Followers&style=for-the-badge&logo=github&logoColor=0d1117&color=0d1117&labelColor=00FFFF" alt="GitHub Followers" />
-  </a>
-  &nbsp;
   <a href="https://github.com/EPICdronzer?tab=stars">
     <img src="https://img.shields.io/github/stars/EPICdronzer?label=Stars&style=for-the-badge&logo=github&logoColor=0d1117&color=0d1117&labelColor=00FFFF" alt="GitHub Stars" />
   </a>
