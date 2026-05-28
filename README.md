@@ -7,21 +7,34 @@
 </p>
 
 ## 📌 About Me
-- Hi there! 👋
-- Hello — I'm Harsh Vashishth (EPICdronzer) 👨‍💻
-- Role: Web Developer and Software Enthusiast
-- Tagline: A tech freak — passionate about learning, shipping projects, and improving through failure 🚀
-- I build modern web experiences and actively level up in Java, Python, and full‑stack web development. Hireable and always excited to collaborate!
-- Bio: "A tech freak | Passionate about learning | Proven track record of improving with failures | Actively building skills in Java, Python, Web development." 🧠
-- Name: Harsh Vashishth (GitHub: @EPICdronzer)
-- Company: Independent / Open to opportunities (hireable) 💼
-- Website / Portfolio: https://portfolio-harsh-vashishth.vercel.app/ 🔗
-- Currently focusing on: improving full‑stack web skills (Next.js / React), strengthening Java backend knowledge, and expanding Python tooling experience. Always experimenting with new tools and building portfolio projects to practice concepts 🛠️.
 
+```javascript
+const harsh = {
+  name        : "Harsh Vashishth",
+  alias       : "EPICdronzer",
+  role        : "Web Developer & Software Enthusiast",
+  tagline     : "Tech freak | Learning | Shipping | Improving through failures 🚀",
+  hireable    : true,
 
-## 🧠 My Focus Areas
-- Web Development - NEXT.js and MERN
-- Java Fullstack
+  focus       : ["Next.js / React", "MERN Stack", "Java Fullstack"],
+  learning    : ["Full-Stack Web Dev", "Java Backend", "Python Tooling"],
+
+  languages   : ["JavaScript", "Java", "Python"],
+  frontend    : ["React", "Next.js", "HTML5", "CSS3", "Tailwind", "Bootstrap"],
+  backend     : ["Node.js", "Express.js", "Spring Boot", "Django"],
+  databases   : ["MongoDB", "MySQL", "SQLite"],
+  tools       : ["Git", "VS Code", "Figma", "Postman", "Vite"],
+
+  portfolio   : "https://portfolio-harsh-vashishth.vercel.app/",
+  email       : "vharsh2003@gmail.com",
+
+  funFact     : "My best features ship after midnight ☕",
+
+  greet() {
+    return `Hi there! 👋 Let's build something awesome together.`;
+  }
+};
+```
 
 
 ## 📊 GitHub Stats & Trophies
