@@ -2,8 +2,18 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=EPICdronzer">
-    <img src="https://komarev.com/ghpvc/?username=EPICdronzer&label=Profile%20views&color=00FFFF&style=flat-square" alt="EPICdronzer's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=EPICdronzer&label=👁️+Profile+Views&color=0d1117&labelColor=00FFFF&style=for-the-badge" alt="Profile Views" />
   </a>
+  &nbsp;
+  <a href="https://github.com/EPICdronzer?tab=followers">
+    <img src="https://img.shields.io/github/followers/EPICdronzer?label=Followers&style=for-the-badge&logo=github&logoColor=0d1117&color=0d1117&labelColor=00FFFF" alt="GitHub Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/EPICdronzer?tab=stars">
+    <img src="https://img.shields.io/github/stars/EPICdronzer?label=Stars&style=for-the-badge&logo=github&logoColor=0d1117&color=0d1117&labelColor=00FFFF" alt="GitHub Stars" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Hireable-00FFFF?style=for-the-badge&logo=checkmarx&logoColor=0d1117&labelColor=0d1117" alt="Hireable" />
 </p>
 
 ## 📌 About Me
